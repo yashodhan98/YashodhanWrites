@@ -1,2 +1,2 @@
-# yashodhan98.YashodhanWrites.io
+# YashodhanWrites
 Personal website to host literary content
